@@ -5,3 +5,4 @@
 4-listmorefiles: Lists all current directory contentes including hidden files
 5-listfilesdigitonly: Lists current directory files in numerical format
 6-firstdirectory: Added script to create a directory in the temp/ directory
+7-movethatfile: Added a script to move a file from the /tmp/ directory to the new directory 'my_first_directory'
