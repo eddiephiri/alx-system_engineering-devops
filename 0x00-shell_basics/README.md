@@ -4,3 +4,4 @@
 3-listfiles: Lists all contents of the current directory in more details
 4-listmorefiles: Lists all current directory contentes including hidden files
 5-listfilesdigitonly: Lists current directory files in numerical format
+6-firstdirectory: Added script to create a directory in the temp/ directory
