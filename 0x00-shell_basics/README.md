@@ -9,3 +9,4 @@
 8-firstdelete: Deletes the file betty from my_first_directory
 9-firstdirdeletion: Delets my_first_directory
 10-back: Changes the working directory to the previous one
+11-lists: Lists all files in current working directory, followed by all files in parent directory to the current working directory, and finally lists all files in the /boot directory
